@@ -1,22 +1,22 @@
 # Login Page  Gradient color GlassMorphism
 
-Voici une capture d'écran du projet :
+Voici une capture d'ï¿½cran du projet :
 
-![Capture d'écran du projet](assets/screenshot.png)
+![Capture d'ï¿½cran du projet](assets/screenshot.png)
 
-## Démo en ligne
+## Dï¿½mo en ligne
 
-Si GitHub Pages est activé, la démo devrait être disponible à :
+Si GitHub Pages est activï¿½, la dï¿½mo devrait ï¿½tre disponible ï¿½ :
 
 https://serge-risnerdev.github.io/Login-Page-Gradient-color-GlassMorphism/
 
-## Réseaux sociaux
+## Rï¿½seaux sociaux
 
-Remplacez les liens/handles cidessous par vos comptes réels.
+Remplacez les liens/handles cidessous par vos comptes rï¿½els.
 
 [![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/Instagram-@sergerisner-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sergerisner?igsh=MTlpcm45ZXB2YnU0Yg%3D%3D&utm_source=qr)
 
-Merci d'avoir regardé  Code by SERGE RISNER
+Merci d'avoir regardï¿½  Code by SERGE RISNER
