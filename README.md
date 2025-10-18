@@ -1,18 +1,16 @@
 # Login Page  Gradient color GlassMorphism
 
-Voici une capture d'�cran du projet :
+Voici une capture d'écran du projet :
 
-![Capture d'�cran du projet](assets/screenshot.png)
+![Capture d'écran du projet](assets/screenshot.png)
 
-## D�mo en ligne
-
-Si GitHub Pages est activ�, la d�mo devrait �tre disponible � :
+## Démo en ligne
 
 https://serge-risnerdev.github.io/Login-Page-Gradient-color-GlassMorphism/
 
-## R�seaux sociaux
+## Réseaux sociaux
 
-Remplacez les liens/handles cidessous par vos comptes r�els.
+Remplacez les liens/handles cidessous par vos comptes réels.
 
 [![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
